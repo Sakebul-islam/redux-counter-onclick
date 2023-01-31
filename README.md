@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-## Live Project link : [Task To-Do]()
+## Live Project link : [Redux counter onclick](https://redux-counter-onclick-sakebul.netlify.app)
 
-This project was bootstrapped with [Redux counter onclick](https://redux-counter-onclick-sakebul.netlify.app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
