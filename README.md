@@ -2,7 +2,7 @@
 
 ## Live Project link : [Task To-Do]()
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Redux counter onclick](https://redux-counter-onclick-sakebul.netlify.app).
 
 ## Available Scripts
 
